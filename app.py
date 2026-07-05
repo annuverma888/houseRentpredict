@@ -1,10 +1,3 @@
-# import streamlit as st
-# st.title("Predict bp ")
-# age = st.number_input("Enter your age  (in years):",min_value=0, max_value=100, value=0)
-# weight = st.number_input("Enter your weight (in kg):")
-# if st.button("Predict")
-
-
 import streamlit as st
 import joblib
 import category_encoders as ce
